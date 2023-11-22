@@ -1,4 +1,4 @@
-## Currently working on
+## Projects
 - [Tonix](https://github.com/Kyota-exe/Tonix) - UNIX-like x86_64 kernel and operating system that aims to be POSIX-compliant enough to make porting Linux software easier.
 
 ## Past Projects
