@@ -1,3 +1,8 @@
+## Links
+[Google Scholar](https://scholar.google.com/citations?user=zoO8eH8AAAAJ)
+
+https://kyotaexe.itch.io/
+
 ## Projects
 - [Tonix](https://github.com/Kyota-exe/Tonix) - UNIX-like x86_64 kernel and operating system that aims to be POSIX-compliant enough to make porting Linux software easier.
 
